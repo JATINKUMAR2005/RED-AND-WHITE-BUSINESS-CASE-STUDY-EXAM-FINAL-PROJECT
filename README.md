@@ -1,6 +1,11 @@
 # ✈️ Airline Route Profitability & Performance Analysis
 
+**Dashboard Link:** [View Power BI Dashboard](https://app.powerbi.com/links/3pXlpCwCh3?ctid=b9d20b82-a77c-4f11-af8b-0f3d179ad3c0&pbi_source=linkShare)
+
+---
+
 ## 📌 Project Overview
+
 This project focuses on analyzing airline route profitability using SQL and Power BI. The objective is to help airline management identify profitable routes, cost inefficiencies, demand patterns, and occupancy performance to support data-driven decision making.
 
 The analysis is based on operational, financial, and passenger data for multiple airline routes.
@@ -8,6 +13,7 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 🎯 Business Objective
+
 - Identify most profitable airline routes
 - Analyze revenue vs operational cost
 - Measure seat occupancy efficiency
@@ -37,6 +43,7 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 🛠 Tools & Technologies Used
+
 - **SQL** – Data analysis & aggregation
 - **Power BI** – Data modeling & visualization
 - **Excel / CSV** – Data source
@@ -45,6 +52,7 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 🧮 Key Calculations (DAX Measures)
+
 - Total Revenue
 - Total Cost
 - Total Profit
@@ -77,6 +85,7 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 📈 Key Business Insights
+
 - The airline generates strong overall profit with efficient cost management.
 - Average occupancy rate (~63%) shows unused seat capacity across routes.
 - A small number of routes contribute the majority of total profit.
@@ -100,6 +109,7 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 🚀 How to Use the Project
+
 1. Load `AirlineRoutesData.csv` into SQL / Power BI
 2. Run SQL queries from `SkyRoutesAnalysis.sql`
 3. Open `RouteProfitDashboard.pbix` in Power BI Desktop
@@ -108,24 +118,34 @@ The analysis is based on operational, financial, and passenger data for multiple
 ---
 
 ## 📌 Conclusion
+
 This project demonstrates how SQL + Power BI can be used to transform raw airline data into actionable business insights. The dashboard enables stakeholders to optimize routes, improve occupancy, manage costs, and maximize profitability.
 
 ---
 
 ## 👤 Author
+
 **JATIN KUMAR**  
 Aspiring Data Analyst | Power BI | SQL | Business Intelligence
 
 ---
 
-## 📫 Contact
-Feel free to connect with me for feedback, collaboration, or opportunities!
+## 📧 Connect
+
+Feel free to reach out for collaboration or feedback!
+
+- **LinkedIn:** [Your LinkedIn Profile]
+- **GitHub:** [Your GitHub Profile]
+- **Email:** [Your Email]
 
 ---
 
-## 📝 License
-This project is open-source and available for educational purposes.
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**⭐ If you found this project helpful, please give it a star!**
+## ⭐ Acknowledgments
+
+Thank you for exploring this project! If you found it helpful, please consider giving it a star ⭐
